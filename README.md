@@ -9,4 +9,4 @@
 Flutter | Dart | Git & GitHub
 
 ## 📫 Connect with me
-LinkedIn: [https://www.linkedin.com/in/sheeraz-ahmed-203211284/]
+LinkedIn: [Sheeraz Ahmed](https://www.linkedin.com/in/sheeraz-ahmed-203211284/)
