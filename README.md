@@ -3,7 +3,7 @@
 🎓 BSCS Student | Graduating Dec 2026
 📱 Flutter & Dart Developer
 🌱 Currently learning: APIs, Firebase, State Management
-🎯 Goal: Junior Flutter Developer by Dec 2026
+
 
 ## 🛠️ Tech Stack
 Flutter | Dart | Git & GitHub
